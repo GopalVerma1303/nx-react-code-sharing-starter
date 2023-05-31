@@ -104,7 +104,7 @@
     "babel-plugin-module-resolver": "^4.1.0",
     "babel-plugin-react-native-web": "^0.18.9",
     "cypress": "^9.1.0",
-    "detox": "20.0.3",
+    "detox": "20.9.1",
     "env-cmd": "^10.1.0",
     "eslint": "8.15.0",
     "eslint-config-next": "13.0.0",
