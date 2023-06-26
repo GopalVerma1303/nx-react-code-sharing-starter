@@ -64,7 +64,7 @@
     "@nrwl/detox": "15.4.2",
     "@nrwl/eslint-plugin-nx": "15.4.2",
     "@nrwl/jest": "15.4.2",
-    "@nrwl/linter": "15.4.2",
+    "@nrwl/linter": "16.4.0",
     "@nrwl/nx-cloud": "15.0.2",
     "@nrwl/react": "15.4.2",
     "@nrwl/react-native": "15.4.2",
